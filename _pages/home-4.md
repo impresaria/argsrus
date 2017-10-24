@@ -1,0 +1,11 @@
+---
+ID: 3052
+post_title: Args R Us
+author: jackie
+post_excerpt: ""
+layout: page
+permalink: http://preview.argsr.us/home-4/
+published: true
+post_date: 2014-08-18 14:26:36
+---
+[vc_row css=".vc_custom_1403118571962{margin-bottom: 0px !important;}"][vc_column width="2/3" css=".vc_custom_1407852765886{margin-bottom: 0px !important;}"][vc_tta_tabs][vc_tta_section title="Featured" tab_id="1449488209616-83f89961-91fc"][news per_page="8" image_height="130" meta_author="1" meta_date="1" meta_comment_count="1" meta_views="1" page_arrows="disabled" page_numbers="enabled"][/vc_tta_section][vc_tta_section title="Easter Eggs" tab_id="1449488209643-0322bc91-ad2a"][news per_page="8" image_height="130" meta_author="1" meta_date="1" meta_comment_count="1" meta_views="1" page_arrows="disabled" page_numbers="enabled" cats="gaming"][/vc_tta_section][vc_tta_section title="Hacking" tab_id="1449488234928-c127e3a0-c3e3"][news per_page="8" image_height="130" meta_author="1" meta_date="1" meta_comment_count="1" meta_views="1" page_arrows="disabled" page_numbers="enabled" cats="technology"][/vc_tta_section][vc_tta_section title="Themes" tab_id="1449488236939-9089b1e5-3629"][news per_page="8" image_height="130" meta_author="1" meta_date="1" meta_comment_count="1" meta_views="1" page_arrows="disabled" page_numbers="enabled" cats="travel"][/vc_tta_section][vc_tta_section title="Videos" tab_id="1449488237874-d728773f-b243"][news per_page="8" image_height="130" meta_author="1" meta_date="1" meta_comment_count="1" meta_views="1" page_arrows="disabled" page_numbers="enabled" cats="films"][/vc_tta_section][/vc_tta_tabs][vc_empty_space height="40px"][/vc_column][vc_column width="1/3"][ranking widget_title="Top Theories" meta_hub_fields="1" display_site_rating="1" icon="fa-gamepad" title_bg_color="#ed384c"][vc_empty_space height="40px"][videos widget_title="Latest Videos" filter="enabled" filter_date_posted="1" image_width="75" image_height="75" meta_date="1" meta_cats="1" title_bg_color="#f61e5b" cats="videos" see_all_link="#"][/vc_column][/vc_row]
